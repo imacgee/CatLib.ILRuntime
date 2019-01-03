@@ -1,0 +1,15 @@
+{
+    "name": "CatLib.ILRuntime",
+    "references": [
+        "Game.API",
+        "CatLib.Unity"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
